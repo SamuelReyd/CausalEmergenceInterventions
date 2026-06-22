@@ -1,5 +1,7 @@
 data/*
+!data/.gitkeep
 figures/*
+!figures/.gitkeep
 env
 __pycache__
 .ipynb_checkpoints
