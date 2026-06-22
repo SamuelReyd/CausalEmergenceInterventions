@@ -1,10 +1,6 @@
-checkpoints
-data
-data_backup
-figures
+data/*
+figures/*
 env
-scms
-scms_backup
 __pycache__
 .ipynb_checkpoints
 *.swp
