@@ -1,0 +1,12 @@
+checkpoints
+data
+data_backup
+figures
+env
+scms
+scms_backup
+__pycache__
+.ipynb_checkpoints
+*.swp
+.DS_Store
+.vscode/
